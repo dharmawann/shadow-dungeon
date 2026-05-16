@@ -68,6 +68,12 @@ Players explore multiple rooms, defeat enemies, collect coins, unlock doors, and
 
 ---
 
+<img width="1277" height="957" alt="Screenshot 2026-05-16 193612" src="https://github.com/user-attachments/assets/240f7f87-9eaa-483e-8bd9-93090f98ba3c" />
+
+<img width="1276" height="957" alt="Screenshot 2026-05-16 19364" src="https://github.com/user-attachments/assets/c2626cdc-faa9-41e7-b785-1810c820870c" />
+
+---
+
 ## Deployment and Local Development
 
 The game is designed to run locally using Maven.
