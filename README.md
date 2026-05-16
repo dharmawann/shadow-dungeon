@@ -80,10 +80,10 @@ To set up and run the project:
 git clone https://github.com/dharmawann/shadow-dungeon.git
 ```
 
-2. Open the project folder
+2. Open the project folder using IntelliJ
 3. Wait for Maven to index and download dependencies
 4. Run ShadowDungeon.java
-5. Game window will launch automaticallt
+5. Game window will launch automatically
 
 Requirements:
 - Java 17+
