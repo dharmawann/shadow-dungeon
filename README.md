@@ -77,7 +77,7 @@ To set up and run the project:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/shadow-dungeon.git
+git clone https://github.com/dharmawann/shadow-dungeon.git
 ```
 
 Navigate into the project directory:
