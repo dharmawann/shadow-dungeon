@@ -74,29 +74,24 @@ The game is designed to run locally using Maven.
 
 To set up and run the project:
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/dharmawann/shadow-dungeon.git
 ```
 
-Navigate into the project directory:
+2. Open the project folder
+3. Wait for Maven to index and download dependencies
+4. Run ShadowDungeon.java
+5. Game window will launch automaticallt
 
-```bash
-cd shadow-dungeon
-```
+Requirements:
+- Java 17+
+- Maven 3.8+
+- Bagel game engine (included automatically via Maven pom.xml)
 
-Build the project using Maven:
 
-```bash
-mvn clean package
-```
 
-Run the game using:
-
-```bash
-mvn exec:java -Dexec.mainClass="ShadowDungeon"
-```
 
 
 
